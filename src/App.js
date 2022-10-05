@@ -48,9 +48,9 @@ export default function App() {
 
   return (
     <div className="App">
-      <h1>National Parks In India</h1>
+      <h1>FamousTemples In India</h1>
       <p className="description">
-        checkout different National Parks in different states of India.
+        checkout different FamousTemples in different states of India.
       </p>
       <div>
         {temples.map((temple) => (
